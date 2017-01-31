@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>Actions-zoom-out-icon.png</file>
+        <file>Actions-zoom-in-icon.png</file>
+        <file>Actions-page-zoom-icon.png</file>
+        <file>Crop-2-icon.png</file>
+        <file>Actions-undo-icon.png</file>
+        <file>Actions-redo-icon.png</file>
+        <file>Save-icon.png</file>
+        <file>open-folded-icon.png</file>
+        <file>Reset-icon.png</file>
+        <file>Rotate-view-tool-icon.png</file>
+    </qresource>
+</RCC>
