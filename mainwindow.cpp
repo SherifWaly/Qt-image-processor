@@ -20,6 +20,7 @@ QRubberBand *selected_area;
 QPoint top_left;
 QPoint point;
 QPoint gloable_point;
+QPoint gloable;
 bool selected = false;
 
 MainWindow::MainWindow(QWidget *parent) :
